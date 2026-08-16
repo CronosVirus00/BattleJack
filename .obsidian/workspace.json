@@ -11,10 +11,14 @@
             "id": "1bab7ba5e28dda54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +190,8 @@
   },
   "active": "343e30303cc1fecb",
   "lastOpenFiles": [
+    "Test.md",
+    "docs/rules",
     "lib/python3.14/site-packages/mkdocs/contrib/search/__pycache__/search_index.cpython-314.pyc",
     "lib/python3.14/site-packages/mkdocs/contrib/search/__pycache__/__init__.cpython-314.pyc",
     "lib/python3.14/site-packages/mkdocs/contrib/search/__pycache__",
@@ -191,8 +200,6 @@
     "lib/python3.14/site-packages/backrefs/uniprops/unidata/__pycache__/alias.cpython-314.pyc",
     "lib/python3.14/site-packages/backrefs/uniprops/unidata/__pycache__/__init__.cpython-314.pyc",
     "lib/python3.14/site-packages/backrefs/uniprops/unidata/__pycache__",
-    "lib/python3.14/site-packages/backrefs/uniprops/__pycache__/__init__.cpython-314.pyc",
-    "lib/python3.14/site-packages/backrefs/uniprops/__pycache__",
-    "lib/python3.14/site-packages/backrefs/__pycache__/util.cpython-314.pyc"
+    "lib/python3.14/site-packages/backrefs/uniprops/__pycache__/__init__.cpython-314.pyc"
   ]
 }

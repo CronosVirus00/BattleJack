@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+git add . 
+git commit -m 
+"add new wiki page" git push
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
