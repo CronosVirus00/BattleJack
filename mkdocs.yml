@@ -1,4 +1,10 @@
-site_name: My Docs
+site_name: BattleJack
+site_url: https://cronosvirus00.github.io/BattleJack/
+repo_url: https://github.com/cronosvirus00/BattleJack
+
+validation:
+  links:
+    absolute_links: relative_to_docs
 
 theme:
   name: material
@@ -7,11 +13,21 @@ theme:
 plugins:
   - search
   - autorefs
+  - glightbox
 
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - attr_list
+  - tables
+
 
 
 extra:
