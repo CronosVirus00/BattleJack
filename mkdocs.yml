@@ -1,0 +1,21 @@
+site_name: My Docs
+
+theme:
+  name: material
+  language: it
+
+plugins:
+  - search
+  - autorefs
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
