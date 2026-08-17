@@ -30,8 +30,3 @@ markdown_extensions:
 
 
 
-extra:
-  alternate:
-    - name: English
-      link: /en/
-      lang: en
