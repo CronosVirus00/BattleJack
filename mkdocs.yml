@@ -6,20 +6,21 @@ validation:
   links:
     absolute_links: relative_to_docs
 
+
 theme:
   name: material
   language: it
   features:
-   - navigation.tabs          # Mantiene le pagine principali nella barra in alto
-   - navigation.tabs.only     # Evita di mostrare l'albero delle pagine a sinistra[cite: 1]
-   - navigation.top           # Pulsante per tornare su[cite: 1]
-   - search.suggest           #[cite: 1]
-   - search.highlight         #[cite: 1]
-   - toc.integrate            # Sposta l'indice dei contenuti (TOC) nella barra di sinistra
+    - navigation.tabs          # Schede in alto[cite: 1]
+    - navigation.tabs.only     # Nasconde la navigazione ad albero a sinistra[cite: 1]
+    - navigation.top           # Pulsante torna su[cite: 1]
+    - search.suggest           #[cite: 1]
+    - search.highlight         #[cite: 1]
+    - toc.integrate            # Porta l'indice (TOC) nel pannello di sinistra
 
 extra_css:
   - stylesheets/custom.css
-  
+
 plugins:
   - search
   - autorefs
