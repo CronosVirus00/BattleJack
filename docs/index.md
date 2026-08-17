@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
@@ -5,6 +6,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 git add . 
 git commit -m 
 "add new wiki page" git push
+=======
+# BattleJack
+BattleJack é un gioco di carte 1v1 giocato con un normale mazzo di carte. I giocatori si sfidano su tre lane (corsie) a colpi di
+Il gioco é ispirato ai giochi TCG come Magic, One Piece, con le loro dinamiche strategiche e deckbuilding ed vi unisce le maccaniche del punteggio del blackjack: il risultato é un gioco veloce e dinamico DA FINIRE.
+>>>>>>> a78d1e1 (nuovo)
 
 ## Commands
 

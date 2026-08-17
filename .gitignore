@@ -1,5 +1,10 @@
 bin/
+<<<<<<< HEAD
 include/
 lib/
 share/
 pyvenv.cfg*
+=======
+lib/
+pyvenv.cfg
+>>>>>>> a78d1e1 (nuovo)
