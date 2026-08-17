@@ -10,14 +10,16 @@ theme:
   name: material
   language: it
   features:
-    - navigation.tabs          # Top menu bar tabs
-    - navigation.tabs.only          # remove side bar
-    - navigation.sections      # Group sidebar links cleanly into collapsible sections
-    - navigation.expand        # Keep sidebar sections expanded by default
-    - navigation.top           # Back-to-top button on scroll
-    - search.suggest           # Interactive search suggestions
-    - search.highlight         # Highlight searched keywords on pages
+   - navigation.tabs          # Mantiene le pagine principali nella barra in alto
+   - navigation.tabs.only     # Evita di mostrare l'albero delle pagine a sinistra[cite: 1]
+   - navigation.top           # Pulsante per tornare su[cite: 1]
+   - search.suggest           #[cite: 1]
+   - search.highlight         #[cite: 1]
+   - toc.integrate            # Sposta l'indice dei contenuti (TOC) nella barra di sinistra
 
+extra_css:
+  - stylesheets/custom.css
+  
 plugins:
   - search
   - autorefs
