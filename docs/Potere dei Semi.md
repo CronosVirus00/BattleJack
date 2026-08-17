@@ -1,6 +1,6 @@
 # Potere dei Semi
 I giocatori scelgono un potere per ogni seme dalla lista qui sotto: 
-all'inizio della partita i giocaotri dichiarano cosa hanno scelto.
+all'inizio della partita i giocatori dichiarano cosa hanno scelto.
 
 Ogni potere ha un codice ed un nome per identificarlo.
 

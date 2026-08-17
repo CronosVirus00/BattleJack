@@ -1,4 +1,4 @@
 /* Nasconde la barra laterale di destra (TOC originale) */
 .md-sidebar--secondary {
-  display: none;
+  display: none !important;
 }
