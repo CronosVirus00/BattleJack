@@ -1,6 +1,6 @@
 site_name: BattleJack
 site_url: https://cronosvirus00.github.io/BattleJack/
-repo_url: https://github.com/cronosvirus00/BattleJack
+repo_url: https://github.com/CronosVirus00/BattleJack
 
 validation:
   links:
@@ -9,6 +9,13 @@ validation:
 theme:
   name: material
   language: it
+  features:
+    - navigation.tabs          # Top menu bar tabs
+    - navigation.sections      # Group sidebar links cleanly into collapsible sections
+    - navigation.expand        # Keep sidebar sections expanded by default
+    - navigation.top           # Back-to-top button on scroll
+    - search.suggest           # Interactive search suggestions
+    - search.highlight         # Highlight searched keywords on pages
 
 plugins:
   - search
@@ -17,16 +24,12 @@ plugins:
 
 markdown_extensions:
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption
-  - attr_list
   - tables
-
-
-
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
+  - pymdownx.tasklist:
+      custom_checkbox: true
