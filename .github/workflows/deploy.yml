@@ -26,4 +26,5 @@ jobs:
           pip install --no-cache-dir -r requirements.txt
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+        run: |
+          touch docs/.nojekyll
