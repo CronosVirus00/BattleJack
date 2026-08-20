@@ -2,7 +2,7 @@
 ## Layout e turni
 ![Layout di gioco](./assets/layout.png)
 
-Il tuo mazzo, nonché mazzo principale, va tenuto sempre al centro davanti a te; alla destra andranno gli scarti a faccia in su e alla destra le carte che costituiranno il mazzo secondario.
+Il tuo mazzo, nonché mazzo principale, va tenuto sempre al centro davanti a te; a destra andranno gli scarti a faccia in su e a sinistra le carte che costituiranno il mazzo secondario.
 
 La partita si compone di 15 turni (vedi [Condizioni di Vittoria](#condizioni-di-vittoria)). I giocatori si alternano su chi inizia. P1 é il primo giocatore ad iniziare la partita; P1 iniziariá sempre i turni dispari e P2 i turni pari.
 
