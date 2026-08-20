@@ -2,7 +2,7 @@
 ## Layout e turni
 ![Layout di gioco](./assets/layout.png)
 
-Il mazzo principale va tenuto sempre al centro; alla destra andranno gli scarti a faccia in su e alla destra le carte che costituiranno il mazzo secondario.
+Il tuo mazzo, nonché mazzo principale, va tenuto sempre al centro davanti a te; alla destra andranno gli scarti a faccia in su e alla destra le carte che costituiranno il mazzo secondario.
 
 La partita si compone di 15 turni (vedi [Condizioni di Vittoria](#condizioni-di-vittoria)). I giocatori si alternano su chi inizia. P1 é il primo giocatore ad iniziare la partita; P1 iniziariá sempre i turni dispari e P2 i turni pari.
 
@@ -132,10 +132,27 @@ Una lane alla volta, partendo dalla lane 1, i giocatori risolvono eventuali effe
 I punti si sommano tutti insieme alla fine del combattimento e non di lane in lane.
 
 
-## Chiarimenti sulle fasi di gioco
+### Chiarimenti sulle fasi di gioco
 Si guarda se un giocatore sballa solo durante la fase di combattimento dedicata; durante le altre fasi si puó avere qualsiasi punteggio.
 
 Durante la fase di piazzamento, le carte si rivelano in contemporanea ma i giocatori si alternano su chi gioca la carta per primo sulla lane.
 
 La fase di spostamente é sempre dopo la fase di combattimento.
 
+## Deckbuilding o costruzione del mazzo
+Per creare il proprio mazzo, bisogna rispettare alcune regole:
+- Un mazzo deve avere esattamente 24 carte
+- Solo carte diverse (non posso avere due 3♠️)
+- Al massimo un *poker* (4 carte dello stesso [valore](./Glossario.md/#valore))
+- Al massimo sei *tris* (3 carte dello stesso valore)
+- Tutti e quattro i semi devono essere presenti
+    - Bisogna scegliere uno ed un solo potere per seme
+
+### Draft
+Invece di presentarsi giá con il proprio mazzo, i giocatori possono costruire il proprio mazzo *draftando*: tutte le carte dall'1 al 10 vengono disposte sul tavolo. Si possono creare dei segnalini che rappresentino ogni singolo potere dei semi.
+
+A turno, un giocatore puó:
+- Scegliere due carte
+- Scegliere un seme
+
+Una volta che ogni giocatore ha fatto il proprio mazzo, utilizzando le regole di cui sopra, si puó iniziare a giocare.

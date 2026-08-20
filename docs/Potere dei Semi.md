@@ -4,7 +4,7 @@ all'inizio della partita i giocatori dichiarano cosa hanno scelto.
 
 Ogni potere ha un codice ed un nome per identificarlo.
 
-Prima di vedere i vari poteri dispobibili, bisogna parlare delle carte neutre: sono quelle carte che hanno giá attivato l'effetto del loro potere e si considera il solo valore.
+Prima di vedere i vari poteri dispobibili, bisogna parlare delle carte neutre: sono quelle carte che hanno giá attivato l'effetto del loro potere e si considera il solo [valore](./Glossario.md/#valore). Per riconoscerle piú facilmente, le carte neutre vengono girate in orizzonatale (*tappate* se siete giocatori di Magic).
 
 ## ❤️ Cuori ❤️ 
 I cuori permettono di gestire le tue risorse e salvaguardare il tuo punteggio.

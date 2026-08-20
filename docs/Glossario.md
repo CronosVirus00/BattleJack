@@ -23,4 +23,4 @@ Il target della lane rappresenta il punteggio massimo che i giocatori possono fa
 Se un giocatore fa esattamente gli stessi punti del target di lane, guadagna due punti.
 
 ## Valore
-Il valore della carta é il numero rappresentato sulla faccia; viene utilizzato per il calcolo del punteggio e per l'attivazione di alcuni poteri, come  il [♦️Miraggio](./Potere%20dei%20Semi.md/#d2-miraggio)
+Il valore della carta é il numero rappresentato sulla faccia; viene utilizzato per il calcolo del punteggio e per l'attivazione di alcuni poteri, come  il [♦️Miraggio](./Potere%20dei%20Semi.md/#d2-miraggio). Per esempio, la carta 6♦️ ha come valore 6.
