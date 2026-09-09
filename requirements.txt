@@ -31,4 +31,4 @@ six==1.17.0
 urllib3==2.7.0
 watchdog==6.0.0
 
-pip install mkdocs-static-i18n
+mkdocs-static-i18n
