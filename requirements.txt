@@ -30,3 +30,5 @@ selectolax==0.4.11
 six==1.17.0
 urllib3==2.7.0
 watchdog==6.0.0
+
+pip install mkdocs-static-i18n
