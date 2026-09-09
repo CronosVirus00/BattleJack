@@ -25,6 +25,16 @@ plugins:
   - search
   - autorefs
   - glightbox
+  - i18n:
+      docs_structure: folder # or 'suffix' depending on how your files are organized
+      languages:
+        - locale: it
+          name: Italiano
+          build: true
+        - locale: en
+          name: English
+          build: true
+          default: true
 
 markdown_extensions:
   - def_list

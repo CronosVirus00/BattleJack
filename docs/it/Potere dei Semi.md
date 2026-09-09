@@ -1,6 +1,7 @@
 # Potere dei Semi
-I giocatori scelgono un potere per ogni seme dalla lista qui sotto: 
-all'inizio della partita i giocatori dichiarano cosa hanno scelto.
+I giocatori scelgono un potere per ogni seme dalla lista qui sotto. Un solo potere per seme.
+
+All'inizio della partita i giocatori dichiarano cosa hanno scelto.
 
 Ogni potere ha un codice ed un nome per identificarlo.
 
@@ -23,7 +24,7 @@ Questo effetto si applica a tutte le carte di cuori presenti nella tua lane.
 ### H3 - Riciclo Vitale
 Quando viene rivelata, scambia questa carta con una carta nel mazzo secondario con valore inferiore a questa carta. Attivane gli effetti.
 
-Attiva questo effetto solo se la carta viene giocata dal mazzo principale.
+Attiva questo effetto solo se la carta viene giocata dalla tua mano. Se giocata da un'altra origine, questa carta diventa neutra.
 
 L'effetto non si attiva se una carta di cuori e' gia' presente nella tua lane;
 questa carta diventa neutra.
@@ -58,6 +59,8 @@ Una volta scelta la lane, questa carta diventa neutra
 
 ### D3 - Pilastro
 Questa carta non può essere spostata o scartata dall'effetto di altre carte, e non può essere spostata nemmeno da te durante la **Fase di Spostamento**.
+
+Questa carta puó diventare neutra.
 
 ### D4 - Mentalista
 Se la carta rivelata dall'avversario ha lo stesso valore di questa, sposta la carta
@@ -121,14 +124,11 @@ mandandola nei suoi scarti.
 
 Se si attiva l'effetto, scarta questa carta. Altrimenti, la carta diventa neutra.
 
-Si applica solo con le coppie, non con i tris o quartetti. se ci sono gia due 7 in
-una lane e gioco il 7 di picche, l'effetto non si applica.
 
 ### S2 - Anarchia
 Fintanto che la prima carta della tua lane é picche, il target della lane é pari a 10 e si sballa con 12.
 
-Se la carta di picche viene spostata, quella lane torna normale e questa carta
-diventa neutra se si sposta in una lane dove non é la prima.
+Se questa carta non é prima nella tua lane, diventa neutra.
 
 ### S3 - Ghigliottina
 Se il valore numerico di questa carta di Picche è esattamente identico alla somma delle carte nella lane avversaria (inclusa la carta appena rivelata

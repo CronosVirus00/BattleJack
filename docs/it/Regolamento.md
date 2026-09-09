@@ -1,8 +1,29 @@
 # Regolamento
+
+## Preparazione del mazzo
+Hai bisogno di un mazzo per ogni giocatore.
+
+Prendi un mazzo di carte francesi (54 carte), rimuovi le figure e i Jolly. Mischia le carte e fai un mazzetto con 24 carte davanti a te: questo e' il tuo mazzo principale. Le restanti 16, tienile da parte. Queste saranno il tuo side deck.
+
+Prima di iniziare a giocare, controlla il tuo mazzo principale: puoi decidere di scambiare fino a 3 carte prendendole dal tuo side deck.
+
+Puoi rimischiare tutte le 40 carte una sola volta.
+
+Infine, decidi quali [poteri](./Potere%20dei%20Semi.md) assegnare ai tuoi semi
+
+
+Se invece preferisci costruire il tuo mazzo, guarda la modalitá deckbuilding oppure [draft](#draft).
+
+## Panoramica veloce
+Le carte hanno valore nominale, da 1 (asso) a 10. Il valore delle carte giocate si somma: l'obbiettivo e' avere un punteggio più alto dell'avversario senza sballare.
+
+Il gioco si sviluppa su tre corse (lane) e bisogna provare a sconfiggire l'avversario su ogni lane per ottenere punti.
+
+
 ## Layout e turni
 ![Layout di gioco](./assets/layout.png)
 
-Il tuo mazzo, nonché mazzo principale, va tenuto sempre al centro davanti a te; a destra andranno gli scarti a faccia in su e a sinistra le carte che costituiranno il mazzo secondario.
+Il tuo mazzo, nonché mazzo principale, va tenuto sempre al centro davanti a te; a destra andranno gli scarti a faccia in su e a sinistra le carte che costituiranno il mazzo secondario. In disparte invece, il side deck.
 
 La partita si compone di 15 turni (vedi [Condizioni di Vittoria](#condizioni-di-vittoria)). I giocatori si alternano su chi inizia. P1 é il primo giocatore ad iniziare la partita; P1 iniziariá sempre i turni dispari e P2 i turni pari.
 
@@ -32,9 +53,11 @@ Il gioco si sviluppa su tre lane, identificate come lane 1, lane 2 e lane 3. Com
 
 Ad inizio gioco, tutte le lane hanno **target 21**. 
 
-Fino al turno quarto, si possono giocare carte solo in lane 1 e lane 2; la lane 3 si apre alla fine del quarto turno.
+Fino al quinto turno, si possono giocare carte solo in lane 1 e lane 2; la lane 3 si apre alla fine del quarto turno.
 
-É importante tenere controlato il valore della propria lane perché se in fase di combattimento si supera il target, si rischia di sballare.
+Ogni lane ha il proprio valore target; all'inizio del gioco, tutte le lane hanno valore target 21.
+
+É importante tenere controllato il valore della propria lane perché se in fase di combattimento si supera il target, si rischia di sballare.
 
 !!! warning "Attenzione"
     Ci sono poteri come [♣️ Inflazione](./Potere%20dei%20Semi.md/#c4-inflazione) che modificano temporaneamente il target di lane. Fai attenzione!
@@ -47,7 +70,7 @@ Vince il giocatore che:
 - per primo raggiunge i 15 punti, o:
 - ha piú punti alla fine del 15esimo turno
 
-Se entrambe i giocatori superano i 15 punti perima del quindicesimo turno, si guarda chi ha piú punti. In caso di pareggio, si continua con la normale turnazione finché la situazione di pareggio non si risolve.
+Se entrambe i giocatori superano i 15 punti prima del quindicesimo turno, si guarda chi ha piú punti. In caso di pareggio, si continua con la normale turnazione finché la situazione di pareggio non si risolve.
 
 In caso di pareggio alla fine del quindicesimo turno, si continua con turni extra completi (piazzamento, combattimento, spostamento) finché si risolve la situazione di paritá.
 
@@ -68,12 +91,12 @@ Durante il turno 12, 13, 14 ci sono tutte e tre le fasi, nell'ordine descritto s
 
 Durante il turno 15, vi é solo la fase di combattimento.
 
-A seguire l'ordine cronologico dei turni.
+A seguire l'ordine cronologico delle fasi con le loro sotto-fasi:
 
 1. **Piazzamento**
     1. Pescare
     2. Giocare una carta su una lane
-    3. Giocare una carta nel mazzo degli scarti
+    3. Scartare una carta
     4. Giocare una carta nel mazzo secondario
     5. Rivelazione carte
  1. Risoluzione eventuali effetti
@@ -93,7 +116,7 @@ A seguire l'ordine cronologico dei turni.
 ### Piazzamento
 
 #### Pescare e giocare le carte
-Ogni giocatore pesca tre carte. Dopodiché, ad ogni turno i giocatori si alteranano su chi inizia per primo (P1 e P2). P1 quindi gioca una carta coperta su una lane e P2 esegue la stessa azione. Poi una carta va giocata nel mazzo degli scarti ed infine una carta nel mazzio secondario.
+Ogni giocatore pesca tre carte. Dopodiché, ad ogni turno i giocatori si alteranano su chi inizia per primo (P1 e P2). P1 quindi gioca una carta coperta su una lane e P2 esegue la stessa azione. I giocatori possono giocare le carte su una qualsiasi delle lane disponibili. Poi una carta va giocata nel mazzo degli scarti ed infine una carta nel mazzio secondario.
 
 Se non c'é possibilitá di giocare una carta su nessuna lane, quella carta va giocata nel mazzo degli scarti.
 
@@ -116,10 +139,13 @@ Qualora le due carte abbiano effetti contrastanti, come [♦️Pilastro](./Poter
 
 - le carte vengono considerate neutre e non si attiva nessun effetto.
 
+Se durante la risolutzione del conflitto il punteggio di un giocatore é oltre il target di lane, quel giocatore non puó attivare l'effetoo della carta giocata. Se entrambe i giocatori sono oltre il target di lane, le carte vengono considerate neutre e non si attiva nessun effetto.
+
 ### Combattimento
 Il primo  combattimento avviene alla fine del quarto turno e si ripete ogni due turni. Si combatte sempre al turno 13 e 15.
 
-Anche se la fase di combattimento é immediata (si sommano i valori e si controlla chi vince la lane senza sballare), é importante rispettare l'ordine descritto sopra perché diversi poteri si attivano durante diverse fasi del combattimento. Per esempio, l'effetto [❤️Paracadute](./Potere%20dei%20Semi.md/#h2-paracadute) si attiva entrando in combattimento mentre [❤️Seconda Chance](./Potere%20dei%20Semi.md#h4-seconda-chance) si attiva solo quando si sballa.
+!!! Warning "L'ordine conta"
+    Anche se la fase di combattimento é immediata (si sommano i valori e si controlla chi vince la lane senza sballare), é importante rispettare l'ordine descritto sopra perché diversi poteri si attivano durante diverse fasi del combattimento. Per esempio, l'effetto [❤️Paracadute](./Potere%20dei%20Semi.md/#h2-paracadute) si attiva entrando in combattimento mentre [❤️Seconda Chance](./Potere%20dei%20Semi.md#h4-seconda-chance) si attiva solo quando si sballa.
 
 #### Assegnazione punti
 Una lane alla volta, partendo dalla lane 1, i giocatori risolvono eventuali effetti di combattimento e poi sommano i valori delle proprie carte: il giocatore piú vicino al target di lane senza sballare vince.
@@ -131,17 +157,38 @@ Una lane alla volta, partendo dalla lane 1, i giocatori risolvono eventuali effe
 
 I punti si sommano tutti insieme alla fine del combattimento e non di lane in lane.
 
+### Spostamento
+La prima fase di spostamento avviene alla fine del sesto turno; poi ogni 3 turni. C'è sempre una fase di spostamento durante il turno 13 e 14.
+
+Questa fase permette ai giocatori di scambaire la posizione di due loro carte. 
+
+Per prima cosa, i giocatori scelgono segretamente due (o piu') carte dalla propria pila degli scarti: il valore di queste carte rappresenta la [posizione della carte](../assets/ordine-it.png) sul tavolo. Per esempio, se un giocatore sceglie 3❤️ e il 5♣️, intende scambiare le carte in posizione 3 e 5 (se guardiamo l'immagine di esempio, 6♣️ e 4♠️ si scambiano di posizione).
+
+!!! Note "Poszione delle Carte"
+    Partendo dalla lane 1, le carte si contano dall'alto verso il basso, da sinistra verso destra quando si passa alla lane successiva.
+
+Per scambiare carte in posizione 11 o maggiore, é possibile sommare il valore di due carte.
+
+Una volta scelte le carte, i giocatori le rivelano contemporanemente ed effettuano lo spostamento. Lo spostamente avviene sempre con le proprie carte: non si possono spostare le carte degli avversari in questa fase.
+
+Le carte rivelate tornano negli scarti.
+
+Se un giocatore non vuole spostare carte, puó:
+- scegliere due carte con lo stesso valore, o:
+- scegliere una carta degli scarti che indica una posizione che non esiste; per esempio, sceglie 2♠️ e 10❤️ quando ha solo sei carte in gioco (quindi la posizione 10 non esiste.)
 
 ### Chiarimenti sulle fasi di gioco
 Si guarda se un giocatore sballa solo durante la fase di combattimento dedicata; durante le altre fasi si puó avere qualsiasi punteggio.
 
-Durante la fase di piazzamento, le carte si rivelano in contemporanea ma i giocatori si alternano su chi gioca la carta per primo sulla lane.
 
 La fase di spostamente é sempre dopo la fase di combattimento.
 
-## Deckbuilding o costruzione del mazzo
+## Altre modalita' di gioco
+A seguire altri modi per giocare.
+
+### Deckbuilding o costruzione del mazzo
 Per creare il proprio mazzo, bisogna rispettare alcune regole:
-- Un mazzo deve avere esattamente 24 carte
+- Un mazzo deve avere esattamente 24 carte. Non c'é il side-deck
 - Solo carte diverse (non posso avere due 3♠️)
 - Al massimo un *poker* (4 carte dello stesso [valore](./Glossario.md/#valore))
 - Al massimo sei *tris* (3 carte dello stesso valore)
@@ -154,5 +201,11 @@ Invece di presentarsi giá con il proprio mazzo, i giocatori possono costruire i
 A turno, un giocatore puó:
 - Scegliere due carte
 - Scegliere un seme
+
+Anche qui, bisogna rispettare alcune regole di costruzione
+- Un mazzo deve avere esattamente 20 carte
+- Al massimo un *poker* (4 carte dello stesso [valore](./Glossario.md/#valore))
+- Tutti e quattro i semi devono essere presenti
+    - Bisogna scegliere uno ed un solo potere per seme
 
 Una volta che ogni giocatore ha fatto il proprio mazzo, utilizzando le regole di cui sopra, si puó iniziare a giocare.
