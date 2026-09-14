@@ -10,3 +10,8 @@ A way to keep track of the score and of the turns of play. You can use the [game
 
 The [rule book](./Regolamento.md), obviously.
 
+## Credits
+Game designed by me.
+
+Icons from [game-icons.net](https://game-icons.net/)
+
