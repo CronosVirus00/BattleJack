@@ -113,7 +113,6 @@ For each ♣️ in the lane, the lane target score increases by 1.
 
 This effect activates only if you have at least one active ♣️ in your lane.
 
-
 ### ![Parasite](../assets/icons/c4.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } C5 - Parasite
 As long as this is the only ♣️ in your lane, every card played by the opponent has value -2, starting from the card just revealed.
 
@@ -122,6 +121,20 @@ This effect is not retroactive.
 This effect affects only cards on this lane.
 
 If another ♣️ is played on your lane, discard this card.
+
+### ![Helping Hands?](../assets/icons/c6.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } C6 - Inflation
+When this card is revealed, place the top card of the opponent's main deck at the bottom of the opponent's side of this lane; if that card is higher than this card, perform the same effect on your side. Then this card become neutral
+
+If the opponent's main deck is empty, this card is neutral.
+
+🔔: *Placing - Reveal the played cards*
+
+### ![Fragile Monopoly](../assets/icons/c7.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } C7 - Monopoly
+When this card is revealed, name a number between 1 and 10. As long as this card is active, all the values but the one named are worth 0 during the combat phase.
+If you lose a combat in this lane, this card becomes neutral.
+
+🔔: *Placing - Reveal the played cards*
+
 
 ## ♠️ Spades ♠️
 Spades are a mix of destruction and strategic power.

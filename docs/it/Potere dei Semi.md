@@ -26,7 +26,7 @@ Quando viene rivelata, scambia questa carta con una carta nel mazzo secondario c
 
 Attiva questo effetto solo se la carta viene giocata dalla tua mano. Se giocata da un'altra origine, questa carta diventa neutra.
 
-L'effetto non si attiva se una carta di cuori e' gia' presente nella tua lane;
+L'effetto non si attiva se ❤️ e' gia' presente nella tua lane;
 questa carta diventa neutra.
 
 ### H4 - Seconda Chance

@@ -3,9 +3,9 @@
 ## Setup
 You will need one deck of cards for each player.
 
-From a standard deck of playing cards, remove all the court cards and jokers. Shuffle the deck and deal a deck of 24 cards in front of you: this will be your main deck. Keep the remaining 16 cards on the side for a moment: this is your side deck.
+From a standard deck of playing cards, remove all the court cards and jokers. Shuffle the deck and deal a pile of 24 cards in front of you.: this will be your main deck. Keep the remaining 16 cards on the side for a moment: this is your side deck.
 
-Before starting to play, check your main deck: you can swap up to 3 cards with your side deck.
+Before starting to play, check your main deck: you can swap up to 3 cards with cards from your side deck.
 
 You are allowed to shuffle and deal the entire 40-card pool again once.
 
@@ -23,9 +23,9 @@ The game is played across 3 lanes: try to beat the opponent's score in each lane
 ## Layout and turns
 ![Game Layout](../assets/layout-en.png)
 
-Keep your main deck always in front of you; discarded cards go on your right and keep the left side free to build your secondary deck. You don't need the side deck anymore, so you can put it away.
+Always keep your main deck in front of you; discarded cards go on your right, leaving the left side free to build your secondary deck. You don't need the side deck anymore, so you can put it away.
 
-There are 15 turns in each game (check out [how to win](#how-to-win)). Players alternate who goes first. P1 is the first player to start the game; P1 will always be first on odd turns, whereas P2 will always go first on even turns.
+There are 15 turns in each game (check out [how to win](#how-to-win)). Players alternating starting turns. P1 is the first player to start the game; P1 will always be first on odd turns, whereas P2 will always go first on even turns.
 
 Each turn has a **placing** (🎴) phase; then, there are combat (⚔️) phases and movement (🔁) phases. For more info, check the [phases of play](#phases-of-play).
 
@@ -52,9 +52,9 @@ Each turn has a **placing** (🎴) phase; then, there are combat (⚔️) phases
 ## Lanes and lane targets
 The game is played across three lanes: Lane 1, Lane 2, and Lane 3. As shown in the layout, Lane 1 is always the one to the left of Player 1 (P1) and Lane 2 is always in the middle.
 
-Until the fifth turn, you can only play cards in Lane 1 and Lane 2; Lane 3 opens at the end of the fourth turn.
+Until the fifth turn, you can play cards only in Lane 1 and Lane 2; Lane 3 opens at the end of the fourth turn.
 
-Each lane has its own target value; at the beginning of the game, all lanes have 21 as their target value.
+Each lane has its own target value; at the beginning of the game, all lanes have a target value of 21.
 
 It is crucial to keep track of the score of your lane because during the combat phase you could bust if your score is greater than the target score.
 
@@ -69,7 +69,7 @@ The winner is the player who:
 - reaches 15 points first
 - has more points at the end of the 15th turn
 
-If both players reach more than 15 points before the 15th turn, the player who reached 15 first wins. If players have tied points (e.g., 17 vs. 17), the game continues as normal until the tie is broken.
+If both players reach more than 15 points before the 15th turn, the player who reached 15 first wins. If players are tied on points (e.g., 17 vs. 17), the game continues as normal until the tie is broken.
 
 If there is a draw at the end of the 15th turn, continue playing turns with all three phases (placing, combat, movement) until the tie is broken.
 
@@ -115,7 +115,7 @@ Here is the chronological order of phases and their sub-phases:
 ### Placing
 
 #### Drawing and playing cards
-At the beginning of each turn, players draw three cards. Players alternate who goes first (P1 and P2). Then P1 places a card face down on a lane; P2 does the same; players are free to place their card on any available lane. Once both cards are placed, players discard a card and put their last drawn card into their secondary deck.
+At the beginning of each turn, players draw three cards. the first player places a card face down on a lane; the second player does the same. Players are free to place their card on any available lane. Once both cards are placed, players discard a card and put their last drawn card into their secondary deck.
 
 If a player cannot place a card on any lane, that card goes into the discard pile.
 
@@ -123,13 +123,13 @@ As long as there are cards in the main deck, players must draw three cards; if t
 
 If at the beginning of the turn a player has 0 cards in their main deck, they must choose between:
 
-- Moving the secondary deck to the main deck position: now the secondary deck becomes the main deck.
+- Move the secondary deck to the main deck position, making it your new main deck
 - Shuffling the secondary deck with the discard pile to create a new main deck.
 
 #### Revealing cards
 Cards played face down on lanes are revealed simultaneously. If cards have powers, they are resolved now.
 
-If two cards have conflicting effects, like [♦️Pillar](./Potere%20dei%20Semi.md/#d3-pillar) and [♠️Guillotine](./Potere%20dei%20Semi.md/#s3-guillotine), first resolve the card of the player who:
+If two cards have conflicting effects, like [♦️Pillar](./Potere%20dei%20Semi.md/#d3-pillar) and [♠️Guillotine](./Potere%20dei%20Semi.md/#s3-guillotine), first resolve the card of the player whose:
 
 - has a lane score closer to the target score, not counting the card just revealed. For instance, if the target score is 21, the sum of P1's cards is 17, and P2's is 20, P2's card activates first. If there is a tie:
 
@@ -148,28 +148,28 @@ The first combat phase takes place at the end of the fourth turn and every 2 tur
     For instance, the power [❤️Parachute](./Potere%20dei%20Semi.md/#h2-parachute) activates when entering combat, whereas [Second Chance](#./Potere%20dei%20Semi.md#h4-second-chance) activates only when you bust.
 
 #### Scoring points
-Starting from Lane 1, players resolve any effects and then sum the values of their own cards: the player who is closer to the lane's target without busting wins.
+Starting from Lane 1, players resolve any effects and then sum the values of their cards: the player who is closer to the lane's target without busting wins.
 
 - The winner of a lane gains 1 point.
-- If your score is equal to the lane's target, gain 2 points.
+- If a player's score is equal to the lane's target, they gain 2 points.
 - If players tie, they receive 1 point each.
 - If a player busts, the other player gains an extra point.
 
 You score points at the end of the combat phase, not lane by lane.
 
 ### Moving phase
-The first movement phase happens at the end of the sixth turn, and every 3 turns thereafter (9, 12, ...). There is always a movement phase on turns 13 and 14.
+The first moving phase happens at the end of the sixth turn, and every 3 turns thereafter (9, 12, ...). There is always a movement phase on turns 13 and 14.
 
 This phase allows players to swap the positions of two of their cards.
 
-First, players secretly pick two (or more) cards from their discard pile: the values of these cards represent the [positions of the cards](../assets/ordine-en.png) on the table. For instance, if a player picks 3❤️ and 5♣️, cards in positions 3 and 5 swap their positions (if we look at the example picture, 6♣️ and 4♠️ change positions).
+First, players secretly pick two (or more) cards from their discard pile: the values of these cards represent the [positions of the cards](../assets/ordine-en.png) on the table. For instance, if a player picks 3❤️ and 5♣️, cards in positions 3 and 5 are swapped (if we look at the example picture, 6♣️ and 4♠️ change positions).
 
 !!! Note "Card positions"
     Starting from Lane 1, cards are counted top to bottom, and left to right when moving from lane to lane.
 
 To swap cards in position 11 or higher, players may sum the values of 2 cards.
 
-Once the cards are secretly picked, players reveal them at the same time and proceed to swap the cards on their side. You cannot swap the positions of the opponent's cards during this phase.
+Once the cards are secretly picked, players reveal them at the same time and proceed to swap the cards on their side. Players cannot swap the positions of opponent's cards during this phase.
 
 The cards picked to indicate positions are placed back into the discard pile.
 
@@ -201,7 +201,7 @@ To create your own deck, follow these guidelines:
 ### Draft
 If you like drafting, you can play with just one deck: place all the cards from 1 to 10 on the table. You can create tokens to represent suit powers.
 
-Each turn a player may:
+On each turn, a player may:
 
 - pick 2 cards
 - pick one power
