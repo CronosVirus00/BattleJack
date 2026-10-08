@@ -45,12 +45,23 @@ If there is an ❤️ already in your lane. This card become neutral instead.
 
 🔔: *Combat - Bust checks*
 
-### ![Nullify](../assets/icons/h1.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } H5 - Nullify
+### ![Nullify](../assets/icons/h5.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } H5 - Nullify
 Turn an opponent's card in this lane that has the same value as this card neutral (including the card just revealed by the opponent). Then, discard this card.
 
 If there is no card with the same value, this card becomes neutral.
 
 🔔: *Placing - Reveal the played cards*
+
+### ![Mediocrity](../assets/icons/h1.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } H6 - Mediocrity
+At the end of the combat,if you did not busted and you lost this lane by 3 or less, gain 1 point. Then, this card becomes neutral.
+
+🔔: *Combat - End of combat*
+
+### ![Second Life](../assets/icons/h1.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } H6 - Mediocrity
+When you draw this card, you can make active a current neutral card with value equal or less to this card; then discard this card. Play this card neutral.
+
+🔔: *Placing - Draw cards*
+
 
 ## ♦️ Diamonds ♦️
 Diamonds powers help you by protecting your lane and manipulate it.
@@ -87,6 +98,18 @@ If the card revealed by the opponent has value lower than this card, swap the po
 Regardless of whether this effect activates or not, turn this card neutral.
 
 🔔: *Placing - Reveal the played cards*
+
+### ![Bluff](../assets/icons/d6.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } D6 - Bluff
+Discard this card immediately.
+
+🔔: *Placing - Reveal the played cards*
+
+### ![Intimidation](../assets/icons/d7.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } D7 - Intimidation
+When entering combat, if you have 3 or more cards in this lane, opponent's powers cannot reduce your lane score this combat. Then this card becomes neutral at the end of the combat.
+
+🔔: *Combat - Entering the combat*
+
+
 
 ##  ♣️ Clubs ♣️
 Clubs cards affect opponents cards and manipulate lanes
@@ -164,11 +187,25 @@ When entering in combat, if your lane score is less than the opponent's, this ca
 This card becomes neutral at the end of the next combat.
 
 🔔: *Combat - Entering the combat*
+
 ### ![Sacrifice](../assets/icons/s5.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } S5 - Sacrifice
 When this card is revealed, double the value of the last card in your lane and discard this card.
 
-If the effect does not activate, this card becomes neutral
+If the effect does not activate, this card becomes neutral.
 
 🔔: *Placing - Reveal the played cards*
+
+### ![Grim Reaper](../assets/icons/s6.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } S6 - Grim Reaper
+When this card is revealed, if it is lower than the one shown by the opponent, remove the first card in the opponent's lane.
+
+Regardless of whether this effect activates, this card becomes neutral.
+
+🔔: *Placing - Reveal the played cards*
+
+### ![Consequences](../assets/icons/s7.png){ width="32" height="32" style="vertical-align: middle; margin-right: 8px;" } S7 - Consequences
+If the opponent removes any card from any of your lanes, you gain 2 points. If this effect activates, discard this card.
+
+🔔: *Passive*
+
 
 
